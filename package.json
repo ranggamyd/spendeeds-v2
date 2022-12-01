@@ -1,0 +1,22 @@
+{
+  "name": "spendeeds-v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.2",
+    "jquery": "^3.6.1",
+    "jquery.easing": "^1.4.1",
+    "owl.carousel": "^2.3.4",
+    "sass": "^1.56.1",
+    "wowjs": "^1.1.3"
+  }
+}
